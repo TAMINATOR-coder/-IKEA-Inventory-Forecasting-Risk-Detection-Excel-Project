@@ -53,8 +53,7 @@ Last year’s stockouts cost IKEA $1.2M in lost sales during Black Friday. This 
 
 ## Output Sample
 
-![Risk Flag Table Output](assets/risk-flag-shot)
-
+![Risk Flag Table Output](assets/risk-flag-shot.png)
 
 ## Key Insights
 
@@ -62,10 +61,10 @@ Last year’s stockouts cost IKEA $1.2M in lost sales during Black Friday. This 
 - Real-time risk flags help the inventory team prioritise restocking decisions.
 - Excel alone is powerful enough to simulate real-world analytics pipelines.
 
-
 ## File Included
 
-- `IKEA_Inventory_Forecast.xlsx`
+- [IKEA_Inventory_Forecast.xlsx](IKEA_Inventory_Forecast.xlsx)
+
 - `assets/`: Screenshots 
 
 
