@@ -53,7 +53,7 @@ Last year’s stockouts cost IKEA $1.2M in lost sales during Black Friday. This 
 
 ## Output Sample
 
-![Risk Flag Table Output](risk-flag-shot.png)
+- [Risk Flag Table Output](risk-flag-shot.png)
 
 ## Key Insights
 
